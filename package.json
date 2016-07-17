@@ -1,0 +1,12 @@
+{
+  "name": "tslint-config-dmdnkv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Konstantsin Demedenkov",
+  "license": "ISC"
+}
